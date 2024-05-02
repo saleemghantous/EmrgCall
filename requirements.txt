@@ -4,3 +4,5 @@ mongoengine==0.27.0
 pymongo==4.3.2
 Requests==2.31.0
 twilio==8.10.3
+gunicorn==19.7.1
+
